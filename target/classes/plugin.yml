@@ -1,0 +1,10 @@
+name: Shop
+version: '1.0-SNAPSHOT'
+main: de.elias177.shop.Shop
+api-version: 1.17
+authors: [ Elias177 ]
+website: https:discord.gguwQFpCrFgA
+
+commands:
+  shop:
+    permission: shop.admin

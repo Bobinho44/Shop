@@ -1,0 +1,25 @@
+displayName: "&6Shop"
+Inventory:
+  Title: "&6Shop"
+  Size: 27
+  fillItem: GRAY_STAINED_GLASS_PANE
+  Items:
+    1:
+      0:
+        Item: APPLE
+        ItemModelData: 0
+        ItemName: null
+        ItemLore:
+          - "&61 &6Medallion Token"
+        ItemAmount: 5
+        PriceType: IRON_INGOT
+        Price: 1
+      1:
+        Item: DIAMOND_BLOCK
+        ItemModelData: 0
+        ItemName: "&bBlue Block"
+        ItemLore:
+          - "&664 &5Kingdom Token"
+        ItemAmount: 1
+        PriceType: GOLD_INGOT
+        Price: 64
