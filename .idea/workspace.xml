@@ -17,6 +17,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -42,7 +45,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Shadow/Desktop/BCrate",
+    "last_opened_file_path": "C:/Users/Shadow/Desktop/sTeams",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -85,6 +88,7 @@
       <workItem from="1674674390205" duration="650000" />
       <workItem from="1674675984194" duration="2365000" />
       <workItem from="1675099999801" duration="885000" />
+      <workItem from="1675381280594" duration="693000" />
     </task>
     <servers />
   </component>
